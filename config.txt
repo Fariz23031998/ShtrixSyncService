@@ -1,0 +1,4 @@
+{
+    "regos_shtrix_files": ["shtrix.txt", "shtrix1.txt"],
+    "check_time": 10
+}
